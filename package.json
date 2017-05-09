@@ -9,6 +9,8 @@
   "author": "Kyle Peacock",
   "license": "ISC",
   "dependencies": {
+    "@types/react": "^15.0.11",
+    "@types/react-dom": "^0.14.23", 
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-polyfill": "^6.23.0",
